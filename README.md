@@ -1,2 +1,2 @@
 # ProducerConsumer
-University project: Producer-consumer paradigm example. Coded in C (multiprocessing &amp; multithreading).
+University project: Producer-consumer paradigm example. Coded in C. *fork*/*mutex* version uses multiple processes/threads.
